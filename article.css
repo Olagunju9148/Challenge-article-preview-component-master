@@ -189,7 +189,7 @@ body {
     left: 0;
     border-bottom-right-radius: .5rem;
     border-bottom-left-radius: .5rem;
-    /* display: none; */
+    display: none;
 }
 
 .attribution { 
@@ -230,7 +230,7 @@ body {
 
     .click-social-nav {
         top: -4rem;
-        left: 14rem;
+        left: 14.7rem;
         border-radius: .8rem;
         box-shadow: hsl(212, 23%, 69%) 0px 7px 10px 0px;
         width: 18rem;
@@ -256,7 +256,6 @@ body {
         inset: 5.2rem -3.5rem;
         width: 2.1rem;
         height: 2.1rem;
-        /* display: none; */
     }
 
     .footer {

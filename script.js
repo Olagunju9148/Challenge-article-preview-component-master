@@ -1,5 +1,9 @@
-let shareIcon = document.getElementById("shareicon")
-
-function shareIcon() {
-    shareIcon
+document.querySelector(".share-icon").addEventListener('click', function(){
+    document.querySelector(".click-social-nav").style.display = 'block';
 }
+)
+
+document.querySelector(".click-share-icon").addEventListener('click', function(){
+    document.querySelector(".click-social-nav").style.display = 'none';
+}
+)
